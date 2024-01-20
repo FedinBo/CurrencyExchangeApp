@@ -1,0 +1,1 @@
+[{"ccy":"EUR","base_ccy":"UAH","buy":"41.40000","sale":"42.40000"},{"ccy":"USD","base_ccy":"UAH","buy":"37.95000","sale":"38.55000"}]
